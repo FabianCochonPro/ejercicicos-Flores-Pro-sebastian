@@ -39,5 +39,5 @@ void largestprimefactor(int m)
 int main()
 {
   
-  largestprimefactor(13195);
+  largestprimefactor(600851475143);
 }

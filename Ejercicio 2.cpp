@@ -20,6 +20,6 @@ int fibonacci(int n)
 }
 int main()
 {
-    fibonacci(10);
+    fibonacci(4000000);
 
 }

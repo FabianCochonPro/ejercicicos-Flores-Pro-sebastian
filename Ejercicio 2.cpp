@@ -14,10 +14,10 @@ int main()
        
         
         
-        e=o;
-        o=o+tempo;//2
-        cout<<o<<" ";//1
-        tempo=e;//1
+        e=o;//1,1,2,3
+        o=o+tempo;//1,2,3,5
+        tempo=e;//1,1,2,3
+        cout<<o<<" ";//1,2,3,5
       
         
         
